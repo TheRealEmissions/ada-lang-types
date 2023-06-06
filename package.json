@@ -1,0 +1,19 @@
+{
+  "name": "ada-lang-types",
+  "version": "1.0.0",
+  "description": "Lang addon for Ada",
+  "main": "lang/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRealEmissions/ada-lang-types.git"
+  },
+  "author": "Emissions#2565",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheRealEmissions/ada-lang-types/issues"
+  },
+  "homepage": "https://github.com/TheRealEmissions/ada-lang-types#readme"
+}
