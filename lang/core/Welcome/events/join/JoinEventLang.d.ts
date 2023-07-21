@@ -8,5 +8,13 @@ export declare class JoinEventLang extends BaseLang {
         thumbnail: {
             url: string;
         };
+        placeholders: {
+            tag: string;
+            username: string;
+            member_number: string;
+            member_number_ending: string;
+            discriminator: string;
+            avatar_url: string;
+        };
     };
 }
